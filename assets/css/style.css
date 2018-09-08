@@ -1,0 +1,17 @@
+
+body {
+    background-image: url("https://picsum.photos/200/300/?random");
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maincontent{
+    background-color: aquamarine;
+    border: 10px;
+    border-color: black;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 50px;
+    margin-top: 150px
+
+}
